@@ -61,6 +61,3 @@ Feel free to reach out on [LinkedIn](#) or [Twitter](#) (add your links if you h
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twan102018&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=twan102018&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>

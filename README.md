@@ -11,10 +11,10 @@
 
 ### About Me
 - 🌱 I’m currently learning **Svelte, Python, Rust, GSAP, Framer Motion**.
-- 👨‍💻 All of my projects are available at [portfolio](https://twanvanvliet.nl).
+- 👨‍💻 All of my projects are available at [portfolio](#).
 
 ### Connect with Me
-Feel free to reach out on [LinkedIn](#) or [Twitter](#) (add your links if you have them).
+Feel free to reach out on [LinkedIn](#).
 
 ---
 

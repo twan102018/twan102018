@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Twan</h1>
-<h3 align="center">A passionate full-stack software developer living in the Netherlands</h3>
+<h3 align="center">A passionate full-stack software developer</h3>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
